@@ -9,4 +9,7 @@ Olá, me chamo Kelvin Henrique Ferreira e tenho 22 anos!
   * MySQL/Sql Server
   * PHP 7/8
     - Laravel
+
+## Minhas estatísticas de programação ;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinhenri99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
