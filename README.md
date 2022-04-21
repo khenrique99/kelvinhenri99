@@ -12,6 +12,7 @@ Olá, me chamo Kelvin Henrique Ferreira e tenho 23 anos!
 
 * Agil.
 * Scrum.
+* MVC.
 
 ## Front-end Developer;
   * HTML 5.
