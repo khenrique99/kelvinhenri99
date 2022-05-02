@@ -6,17 +6,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](11.948441622)
 [![Site](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](11.948441622)
 
-## Estudo programação desde 2019
+## Resumo
 
--> Foquei na área de desenvolvimento WEB e desde então não parei de estudar, venho desenvolvendo projetos publicos e privados para melhorar as minhas habilidades profissionais como támbem para rendimentos financeiros!
-
-## Métodos
-
--> Experiências em projetos:
-
-* Agil.
-* Scrum.
-* MVC.
+- Tenho experiência em projeto com MVC, Ágil, Api RESTful, login, token, autenticação, níveis de acesso, design, TMS, requisição e entrega de dados, atualmente focado em desenvolvimento WEB, tive a oportunidade de trabalhar diretamente com Php/Laravel junto com Mysql/Slq Server na parte do backend e, com frontend ganhei experiências com Javascript, html5, css3.
+  <br>
+  <br>
+- Estou focado no desenvolvimento Web para buscar o aperfeiçoamento em Node.Js/React.Js, PHP/Laravel, Html5/Css3, Jquery/Ajax, MySql/SqlServer.
 
 ## Front-end Developer;
 
