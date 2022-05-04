@@ -8,6 +8,8 @@
 
 ## Resumo
 
+Atualmente - > CEO | FullStack Enginner at Troca Fácil Auto
+
 - Tenho experiência em projeto com MVC, Ágil, Api RESTful, login, token, autenticação, níveis de acesso, design, TMS, requisição e entrega de dados, atualmente focado em desenvolvimento WEB, tive a oportunidade de trabalhar diretamente com Php/Laravel junto com Mysql/Slq Server na parte do backend e, com frontend ganhei experiências com Javascript, html5, css3.
   <br>
   <br>
