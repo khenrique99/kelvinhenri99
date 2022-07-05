@@ -11,7 +11,7 @@
 - Trabalho com projeto; MVC, Ágil, Api RESTful, login, token, autenticação, níveis de acesso, design, TMS, requisição e entrega de dados, atualmente focado em desenvolvimento WEB, tive a oportunidade de trabalhar diretamente com Php/Laravel junto com Mysql/Slq Server na parte do backend e, com frontend ganhei experiências com Javascript, html5, css3.
   <br>
   <br>
-- Estou focado no desenvolvimento Web para buscar o aperfeiçoamento em Node.Js/React.Js, PHP/Laravel, Html5/Css3, Jquery/Ajax, MySql/SqlServer.
+- Estou focado no desenvolvimento Web para buscar o aperfeiçoamento em Node.Js/React.Js, PHP/Laravel, Html5/Css3, Jquery/Ajax, MySql/SqlServer, VUE/Angular.
 
 ## Front-end Developer;
 
