@@ -8,10 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](11.948441622)
 [![Site](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](11.948441622)
 
-## Histórico Profissional
-
-<p>Software Engineer & Co-Founder at Troca Fácil Auto</p>
-
 ## Resumo
 
 - Trabalho com projeto; MVC, Ágil, Api RESTful, login, token, autenticação, níveis de acesso, design, TMS, requisição e entrega de dados, atualmente focado em desenvolvimento WEB, tive a oportunidade de trabalhar diretamente com Php/Laravel junto com Mysql/Slq Server na parte do backend e, com frontend ganhei experiências com Javascript, html5, css3.
